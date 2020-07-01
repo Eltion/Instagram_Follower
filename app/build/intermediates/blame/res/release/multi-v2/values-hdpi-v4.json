@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/eltion/AndroidStudioProjects/InstagramFollowers/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/eltion/.gradle/caches/transforms-2/files-2.1/bcc2db7c56cbdd64dea33347a1f0b37e/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

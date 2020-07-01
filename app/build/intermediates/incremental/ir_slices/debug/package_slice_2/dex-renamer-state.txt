@@ -1,0 +1,4 @@
+#Fri Aug 09 20:36:13 CEST 2019
+base.0=/home/eltion/AndroidStudioProjects/InstagramFollowers/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex

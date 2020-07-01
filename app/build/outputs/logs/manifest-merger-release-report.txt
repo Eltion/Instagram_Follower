@@ -1,0 +1,294 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:2:1-42:12
+MERGED from [com.google.android.material:material:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/c30b6df7446ad3033ce13407d0fcbd09/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.mjn1369:fieldsetview:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/9eace14a1a234cdd4bc28df658d33808/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.preference:preference:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/2cb8902af68b05c380d0e6ea2c3e5daa/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/bcc2db7c56cbdd64dea33347a1f0b37e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/eltion/.gradle/caches/transforms-2/files-2.1/bea69f9b23451b7a40db637518eb2f00/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.1] /home/eltion/.gradle/caches/transforms-2/files-2.1/1e12e48b9774cf2db90b7c1e925f8f51/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/48aa7bb007a678a221f69b9633197cf5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.makeramen:roundedimageview:2.3.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/07a06b16e5b32be5f156de3b45ddaa11/AndroidManifest.xml:2:1-9:12
+MERGED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:2:1-37:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/7d2bac16a775b47cd1ecff31d0f82abe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/98391fdfbf89b50a362be4a264b52bde/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/c8e926590b113cd96f05639ad354d9c1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/34565f60cafd0cd507e83221ebb01277/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/9419e3caf24b1a03e7f4a42f957dcbf1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/95fe3b1d1842fb460feb2b0b71bb4e00/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/36861a5e2b7b2321276db1bfddeba8e8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/0ee4e79b81f3491675de99e84e4e7354/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/0e96e070b2525fdbe45a6953dd4de541/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/61d719db8c80336016241ffc9c83a39f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/47059df0d498ebf122487ce0a9e80fe0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/d1b831d4c5ffe2438e6692a2d922ed0c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/de2e3f52bcfc7c992013bee3ab23f8cb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/d25f7d7e9f70a14ebd43b19f500dd0f1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/a47e239fc60826f097461dba22e6548b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/5b772bdd08a6270f85245874f381c5e0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/3c1b347a14768fca7c8b14bb6812867c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/1dc52ad60d937b08b0b0952d61d60277/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/1b4166ff729c57ab7e849e6e18e0351d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/c496b1624aa5f8cb777e32dcdd99555d/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/214ab43be7254a86b0432c68cbddb248/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/1e801de77ee10e8545c90d9f93856729/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/6b0d578db9d952f26726bd91584da91b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/63ea59b428264cd9e973779a0122ac0c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/3963b5bfac15dbe6f4ae56b4f3e09fe8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/8f76f8a56c2e53971e42d3d8b60a8434/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/9f7f2a062fce91b90d6b2851c9c1ea72/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/57557bb16881c1c3713c7d6fa45e067b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/e1ffcadc04c965ffbbea72bc6ed18d52/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/e5f686ca81b7a75d4a886ff9a191a877/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/ca59224dbf665164dfc19ff3f54991e4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/67a21dd8a6dac60eb8946a137f22dcd3/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:12:5-67
+MERGED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:7:5-40:19
+MERGED from [com.google.android.material:material:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/c30b6df7446ad3033ce13407d0fcbd09/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/c30b6df7446ad3033ce13407d0fcbd09/AndroidManifest.xml:22:5-20
+MERGED from [com.github.mjn1369:fieldsetview:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/9eace14a1a234cdd4bc28df658d33808/AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.mjn1369:fieldsetview:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/9eace14a1a234cdd4bc28df658d33808/AndroidManifest.xml:11:5-12:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/eltion/.gradle/caches/transforms-2/files-2.1/bea69f9b23451b7a40db637518eb2f00/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/eltion/.gradle/caches/transforms-2/files-2.1/bea69f9b23451b7a40db637518eb2f00/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /home/eltion/.gradle/caches/transforms-2/files-2.1/1e12e48b9774cf2db90b7c1e925f8f51/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /home/eltion/.gradle/caches/transforms-2/files-2.1/1e12e48b9774cf2db90b7c1e925f8f51/AndroidManifest.xml:9:5-20
+MERGED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:14:5-35:19
+MERGED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:14:5-35:19
+MERGED from [androidx.core:core:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/c496b1624aa5f8cb777e32dcdd99555d/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/c496b1624aa5f8cb777e32dcdd99555d/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/8f76f8a56c2e53971e42d3d8b60a8434/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/8f76f8a56c2e53971e42d3d8b60a8434/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/c496b1624aa5f8cb777e32dcdd99555d/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.instagramfollowers.AdsActivity
+ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:14:9-58
+	android:name
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:14:19-46
+activity#com.example.instagramfollowers.SettingsActivity
+ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:15:9-17:63
+	android:label
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:17:13-60
+	android:name
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:16:13-45
+activity#com.example.instagramfollowers.current_user
+ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:18:9-50
+	android:name
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:18:19-47
+activity#com.example.instagramfollowers.ToFollow
+ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:19:9-46
+	android:name
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:19:19-43
+activity#com.example.instagramfollowers.Search
+ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:20:9-22:59
+	android:theme
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:21:13-35
+activity#com.example.instagramfollowers.Main
+ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:23:9-31:20
+	android:windowSoftInputMode
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:25:13-52
+	android:name
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:24:13-33
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:29:27-74
+activity#com.example.instagramfollowers.Login
+ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:32:9-34:59
+	android:theme
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:33:13-34
+service#com.example.instagramfollowers.FollowService
+ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:36:9-39:39
+	android:enabled
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml:37:13-42
+uses-sdk
+INJECTED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml
+INJECTED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/c30b6df7446ad3033ce13407d0fcbd09/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/c30b6df7446ad3033ce13407d0fcbd09/AndroidManifest.xml:20:5-44
+MERGED from [com.github.mjn1369:fieldsetview:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/9eace14a1a234cdd4bc28df658d33808/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mjn1369:fieldsetview:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/9eace14a1a234cdd4bc28df658d33808/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.preference:preference:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/2cb8902af68b05c380d0e6ea2c3e5daa/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/2cb8902af68b05c380d0e6ea2c3e5daa/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/bcc2db7c56cbdd64dea33347a1f0b37e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/bcc2db7c56cbdd64dea33347a1f0b37e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/eltion/.gradle/caches/transforms-2/files-2.1/bea69f9b23451b7a40db637518eb2f00/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/eltion/.gradle/caches/transforms-2/files-2.1/bea69f9b23451b7a40db637518eb2f00/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.1] /home/eltion/.gradle/caches/transforms-2/files-2.1/1e12e48b9774cf2db90b7c1e925f8f51/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /home/eltion/.gradle/caches/transforms-2/files-2.1/1e12e48b9774cf2db90b7c1e925f8f51/AndroidManifest.xml:7:5-43
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/48aa7bb007a678a221f69b9633197cf5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/48aa7bb007a678a221f69b9633197cf5/AndroidManifest.xml:20:5-44
+MERGED from [com.makeramen:roundedimageview:2.3.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/07a06b16e5b32be5f156de3b45ddaa11/AndroidManifest.xml:7:5-43
+MERGED from [com.makeramen:roundedimageview:2.3.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/07a06b16e5b32be5f156de3b45ddaa11/AndroidManifest.xml:7:5-43
+MERGED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:7:5-9:41
+MERGED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/7d2bac16a775b47cd1ecff31d0f82abe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/7d2bac16a775b47cd1ecff31d0f82abe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/98391fdfbf89b50a362be4a264b52bde/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/98391fdfbf89b50a362be4a264b52bde/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/c8e926590b113cd96f05639ad354d9c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/c8e926590b113cd96f05639ad354d9c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/34565f60cafd0cd507e83221ebb01277/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/34565f60cafd0cd507e83221ebb01277/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/9419e3caf24b1a03e7f4a42f957dcbf1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/9419e3caf24b1a03e7f4a42f957dcbf1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/95fe3b1d1842fb460feb2b0b71bb4e00/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/95fe3b1d1842fb460feb2b0b71bb4e00/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/36861a5e2b7b2321276db1bfddeba8e8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/36861a5e2b7b2321276db1bfddeba8e8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/0ee4e79b81f3491675de99e84e4e7354/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/0ee4e79b81f3491675de99e84e4e7354/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/0e96e070b2525fdbe45a6953dd4de541/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/0e96e070b2525fdbe45a6953dd4de541/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/61d719db8c80336016241ffc9c83a39f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/61d719db8c80336016241ffc9c83a39f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/47059df0d498ebf122487ce0a9e80fe0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/47059df0d498ebf122487ce0a9e80fe0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/d1b831d4c5ffe2438e6692a2d922ed0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/d1b831d4c5ffe2438e6692a2d922ed0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/de2e3f52bcfc7c992013bee3ab23f8cb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/de2e3f52bcfc7c992013bee3ab23f8cb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/d25f7d7e9f70a14ebd43b19f500dd0f1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/d25f7d7e9f70a14ebd43b19f500dd0f1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/a47e239fc60826f097461dba22e6548b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/a47e239fc60826f097461dba22e6548b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/5b772bdd08a6270f85245874f381c5e0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/5b772bdd08a6270f85245874f381c5e0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/3c1b347a14768fca7c8b14bb6812867c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/3c1b347a14768fca7c8b14bb6812867c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/1dc52ad60d937b08b0b0952d61d60277/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/1dc52ad60d937b08b0b0952d61d60277/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/1b4166ff729c57ab7e849e6e18e0351d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/1b4166ff729c57ab7e849e6e18e0351d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/c496b1624aa5f8cb777e32dcdd99555d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/c496b1624aa5f8cb777e32dcdd99555d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/214ab43be7254a86b0432c68cbddb248/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/214ab43be7254a86b0432c68cbddb248/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/1e801de77ee10e8545c90d9f93856729/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/1e801de77ee10e8545c90d9f93856729/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/6b0d578db9d952f26726bd91584da91b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/6b0d578db9d952f26726bd91584da91b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/63ea59b428264cd9e973779a0122ac0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/63ea59b428264cd9e973779a0122ac0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/3963b5bfac15dbe6f4ae56b4f3e09fe8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/3963b5bfac15dbe6f4ae56b4f3e09fe8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/8f76f8a56c2e53971e42d3d8b60a8434/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/8f76f8a56c2e53971e42d3d8b60a8434/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/9f7f2a062fce91b90d6b2851c9c1ea72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/9f7f2a062fce91b90d6b2851c9c1ea72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/57557bb16881c1c3713c7d6fa45e067b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/57557bb16881c1c3713c7d6fa45e067b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/e1ffcadc04c965ffbbea72bc6ed18d52/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /home/eltion/.gradle/caches/transforms-2/files-2.1/e1ffcadc04c965ffbbea72bc6ed18d52/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/e5f686ca81b7a75d4a886ff9a191a877/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/e5f686ca81b7a75d4a886ff9a191a877/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/ca59224dbf665164dfc19ff3f54991e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/ca59224dbf665164dfc19ff3f54991e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/67a21dd8a6dac60eb8946a137f22dcd3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/eltion/.gradle/caches/transforms-2/files-2.1/67a21dd8a6dac60eb8946a137f22dcd3/AndroidManifest.xml:20:5-44
+INJECTED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml
+INJECTED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml
+		ADDED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eltion/AndroidStudioProjects/InstagramFollowers/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:11:22-76
+activity#com.unity3d.services.ads.adunit.AdUnitActivity
+ADDED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:15:9-19:74
+	android:hardwareAccelerated
+		ADDED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:18:13-47
+	android:configChanges
+		ADDED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:17:13-170
+	android:theme
+		ADDED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:19:13-71
+	android:name
+		ADDED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:16:13-74
+activity#com.unity3d.services.ads.adunit.AdUnitTransparentActivity
+ADDED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:20:9-24:86
+	android:hardwareAccelerated
+		ADDED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:23:13-47
+	android:configChanges
+		ADDED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:22:13-170
+	android:theme
+		ADDED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:24:13-83
+	android:name
+		ADDED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:21:13-85
+activity#com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity
+ADDED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:25:9-29:86
+	android:hardwareAccelerated
+		ADDED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:28:13-48
+	android:configChanges
+		ADDED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:27:13-170
+	android:theme
+		ADDED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:29:13-83
+	android:name
+		ADDED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:26:13-93
+activity#com.unity3d.services.ads.adunit.AdUnitSoftwareActivity
+ADDED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:30:9-34:74
+	android:hardwareAccelerated
+		ADDED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:33:13-48
+	android:configChanges
+		ADDED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:32:13-170
+	android:theme
+		ADDED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:34:13-71
+	android:name
+		ADDED from [:unity-ads:] /home/eltion/.gradle/caches/transforms-2/files-2.1/853e5f660d3d639f51c57e8a034df01c/AndroidManifest.xml:31:13-82
